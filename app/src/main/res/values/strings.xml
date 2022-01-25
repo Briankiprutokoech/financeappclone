@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">finance app clone</string>
+    <string name="balance">Balance</string>
+    <string name="gbp">GBP</string>
+    <string name="knect">Knect</string>
+    <string name="transaction">Transactions</string>
+    <string name="see">see all</string>
+    <string name="mpesa">MPESA *1234</string>
+    <string name="gbp1">gbp -10.86</string>
+</resources>
